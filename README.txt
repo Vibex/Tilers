@@ -1,0 +1,1 @@
+This is a collection of all of the tilers I made before qt.pi. None of these are expected to be used by the public. They are more so a learning tool for people just getting into designing layouts and using AHK. Have fun exploring these obsolete scripts.
