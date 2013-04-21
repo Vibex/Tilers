@@ -1,1 +1,0 @@
-This was made after the originaly qt.pi and is fairly finctionaly. It's a very nice script and idea, but has to many bugs and ended up not bring worth it. You can play around with it if you want though.
